@@ -1,6 +1,5 @@
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20230430105741/Flutter-Interview-Questions.webp)  
 Подготовка к интервью на позицию flutter - разработчика. В данном документе есть неточности и упущения, поэтому пулл реквесты приветствуются  
-Другое: [flutter_roadmap](https://github.com/p0dyakov/flutter_roadmap), [flutter_acrticles](https://github.com/p0dyakov/flutter_articles)
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
