@@ -977,7 +977,7 @@
 
 [Подробнее](https://refactoring.guru/ru/design-patterns/catalog)  
 
-#VsCodeExtensions
+##VsCodeExtensions
 ## Reference to other VsCode extensions
 
 [Simpler Flutter Snippet](https://marketplace.visualstudio.com/items?itemName=Eldiyar-Dev.simpler-flutter-snippets)<br>
