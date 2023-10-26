@@ -1,7 +1,7 @@
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20230430105741/Flutter-Interview-Questions.webp)  
 Подготовка к интервью на позицию flutter - разработчика. В данном документе есть неточности и упущения, поэтому пулл реквесты приветствуются  
 
-- [Vs Code Extensions](#VsCodeExtensions)
+- [Vs Code Extensions](#-20)
 
 
 - [Общие](#)
