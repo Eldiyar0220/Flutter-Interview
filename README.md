@@ -1,7 +1,8 @@
 ![image](https://media.geeksforgeeks.org/wp-content/uploads/20230430105741/Flutter-Interview-Questions.webp)  
 Подготовка к интервью на позицию flutter - разработчика. В данном документе есть неточности и упущения, поэтому пулл реквесты приветствуются  
 
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+- [Vs Code Extensions](#VsCodeExtensions)
+
 
 - [Общие](#)
   * [ООП](#-1)
@@ -976,6 +977,7 @@
 
 [Подробнее](https://refactoring.guru/ru/design-patterns/catalog)  
 
+#VsCodeExtensions
 ## Reference to other VsCode extensions
 
 [Simpler Flutter Snippet](https://marketplace.visualstudio.com/items?itemName=Eldiyar-Dev.simpler-flutter-snippets)<br>
